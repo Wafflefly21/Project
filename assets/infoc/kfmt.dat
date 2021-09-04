@@ -1,0 +1,3 @@
+dancingline_public:1 type:string user_id:string ver:string channel:string pkg_name:string child_channel:string mcc:short mnc:short language_setting:string brand:string model:string country_setting:string osver:string x86:string installtime:int imei:string
+dancingline_games_gameshow:101 uptime:int64 network:byte survival_time:int type1:byte firstplay:byte
+dancingline_games_active:102 uptime:int64 network:byte
